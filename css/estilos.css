@@ -114,6 +114,7 @@ nav li a:hover{
 }
 
 .mentions{
+  border-top: solid 1px #e6e6e6;
   text-align: center;
 }
 .people{
@@ -132,10 +133,6 @@ nav li a:hover{
 .person h2, p{
   padding: 0px 7px;
   text-align: left;
-}
-
-.person img{
-  width: 100%;
 }
 
 footer{
